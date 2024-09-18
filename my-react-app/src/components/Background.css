@@ -1,0 +1,14 @@
+.main_div{
+    position:'absolute'
+    
+}
+
+.cursor{
+     width: 30px;
+     height: 30px;
+     background-color: orange;
+     border-radius: 50%;
+     position: absolute;
+     top: 0;
+     left: 0;
+}
